@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on improving my coding skills
+- ⚡ Fun fact: I'm a physiotherapist and accountant lol
+- 📫 How to reach me: (out of service)
+
 <!--
 **ShatteredSickAlpha/ShatteredSickAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
